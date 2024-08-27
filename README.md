@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on learning and developing fullstack projects
 - 📫 How to reach me: shija.suresh89@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I have been recently into Kdramas!
+- ⚡ Fun fact: I have recently been into Kdramas!
 
 <!---
 shijasuresh/shijasuresh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
